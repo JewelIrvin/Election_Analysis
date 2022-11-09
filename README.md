@@ -1,5 +1,6 @@
 # Election_Analysis
-## Overview of Election Audit: Tom and Seth needed help gathering the votes from the Colorado Board of Election and audting the votes to retreive the winner of the election, the largest county votes, and the percent Explain the purpose of this election audit analysis.
+## Overview of Election Audit: 
+Tom and Seth needed help gathering the votes from the Colorado Board of Election and audting the votes to retreive the winner of the election, the largest county votes, and the percent Explain the purpose of this election audit analysis.
 
 ## Election-Audit Results:
 
@@ -37,4 +38,4 @@ Winning Vote Count: 272,892
 
 Winning Percentage: 73.8%
 
-## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## Election-Audit Summary: After completing the election audit, I notice that I can use this code as pseudocode to calculate the presidential election. Also, can use this code to determine the midterm election.
