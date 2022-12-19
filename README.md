@@ -1,6 +1,9 @@
 # Election_Analysis
 ## Overview of Election Audit: 
-Tom and Seth needed help gathering the votes from the Colorado Board of Election and audting the votes to retreive the winner of the election, the largest county votes, and the percent Explain the purpose of this election audit analysis.
+Tom and Seth needed help gathering the votes from the Colorado Board of Election and auditing the votes to retreive the winner of the election, the largest county votes, and the percent of votes from each county.
+
+# Resources:
+Python (Programming Language)
 
 ## Election-Audit Results:
 
